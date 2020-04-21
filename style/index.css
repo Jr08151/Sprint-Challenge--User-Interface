@@ -219,16 +219,22 @@ p {
 @media (max-width: 800px){
     .container {
         flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
     }
     nav {
         flex-direction: column;
         padding: 10px;
-        justify-content: flex-start;
+        align-items: center;
     }
     .middle-content {
         flex-wrap: wrap;
         flex-direction: column;
-
+    }
+    .boxes {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
     }
     }
 
@@ -236,14 +242,18 @@ p {
     .container {
         flex-wrap: wrap;
         flex-direction: column;
-        justify-content: center;
+        align-items: center;
     }
     .middle-content {
         flex-wrap: wrap;
         flex-direction: column;
         justify-items: center;
     }
-      
+    .boxes {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+    }  
   }
 
 .bottom-content {

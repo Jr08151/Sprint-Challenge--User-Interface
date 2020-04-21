@@ -1,0 +1,5 @@
+1.	If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic HTML is the use of HTML markup to reinforce the semantics and to make the html file understandable. 
+2.	What are the 4 areas of the box model? Content Area, Padding Area, Border Area, Margin area.
+3.	While using flexbox, what axis does the following property work on: align-items: center? Cross axis or vertical axis
+4.	Explain why git is valuable to a team of developers. You can have several people work on the same project in different areas and if you have any issues is has previously completed code to fall back on and you can merge everyone code together if you need to. 
+5.	Define mobile-first design in your own words. When you are writing code you want to think about having it work on a mobile browser first before working in an desktop browser. 
